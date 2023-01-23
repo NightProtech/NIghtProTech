@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Travkeyah Knight! <br/><a>IT Support<a/></h1>
+
+<h2>👨‍💻 IT Support Projects:</h2>
+
+  - [Active Directory Home Lab]
+  
+<h2> Certifications</h2>
+
+  - [CompTIA A+]
 
 <!--
-**NightProtech/NIghtProTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
